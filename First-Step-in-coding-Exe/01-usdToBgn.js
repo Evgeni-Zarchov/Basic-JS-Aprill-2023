@@ -4,4 +4,4 @@ function usdToBgn(input) {
 
     console.log(bgn);
 }
-usdToBgn(['22'])
+usdToBgn(['22']);
